@@ -1,0 +1,22 @@
+{
+  "name": "frostdates-widget",
+  "version": "0.1.0",
+  "description": "Embeddable frost dates and growing zone widget for any website",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frostdates/frostdates-widget"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "jsdom": "^28.1.0",
+    "typescript": "^5.7.0",
+    "vite": "^6.2.0",
+    "vitest": "^4.0.18"
+  }
+}
