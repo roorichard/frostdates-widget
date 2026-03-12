@@ -14,7 +14,7 @@ export const WIDGET_CSS = `
   border-radius: 8px;
   padding: 20px;
   background: #fff;
-  max-width: 600px;
+  width: 100%;
 }
 
 /* Search input */
